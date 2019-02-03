@@ -1,0 +1,13 @@
+f:/Python/Facial_Recognition/pre_processed\ayyappa\capture_1.png
+f:/Python/Facial_Recognition/pre_processed\ayyappa\capture_2.png
+f:/Python/Facial_Recognition/pre_processed\ayyappa\capture_3.png
+f:/Python/Facial_Recognition/pre_processed\ayyappa\capture_4.png
+f:/Python/Facial_Recognition/pre_processed\ayyappa\capture_5.png
+f:/Python/Facial_Recognition/pre_processed\ayyappa\capture_6.png
+f:/Python/Facial_Recognition/pre_processed\sedgewick\download.png 76 32 129 98
+f:/Python/Facial_Recognition/pre_processed\sedgewick\hqdefault.png 209 78 272 156
+f:/Python/Facial_Recognition/pre_processed\sedgewick\maxresdefault.png 746 93 896 277
+f:/Python/Facial_Recognition/pre_processed\sedgewick\Robert-Sedgewick.png 90 96 231 265
+f:/Python/Facial_Recognition/pre_processed\sedgewick\sedgewick-robert-image.png 98 41 200 179
+f:/Python/Facial_Recognition/pre_processed\sedgewick\Sedgewick-web.png 23 35 144 195
+f:/Python/Facial_Recognition/pre_processed\sedgewick\sedgewick2.png 63 39 184 199

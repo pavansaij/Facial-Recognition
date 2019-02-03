@@ -1,0 +1,18 @@
+f:\Python\Facial_Recognition\pre_processed\ayyappa\capture_1.png
+f:\Python\Facial_Recognition\pre_processed\ayyappa\capture_2.png
+f:\Python\Facial_Recognition\pre_processed\ayyappa\capture_3.png
+f:\Python\Facial_Recognition\pre_processed\ayyappa\capture_4.png
+f:\Python\Facial_Recognition\pre_processed\ayyappa\capture_5.png
+f:\Python\Facial_Recognition\pre_processed\ayyappa\capture_6.png
+f:\Python\Facial_Recognition\pre_processed\madhu\capture_1.png 9 0 168 195
+f:\Python\Facial_Recognition\pre_processed\madhu\capture_2.png 15 1 170 192
+f:\Python\Facial_Recognition\pre_processed\madhu\capture_3.png 7 0 163 188
+f:\Python\Facial_Recognition\pre_processed\madhu\capture_4.png 7 0 165 189
+f:\Python\Facial_Recognition\pre_processed\madhu\capture_5.png 15 0 167 192
+f:\Python\Facial_Recognition\pre_processed\madhu\capture_6.png 7 -1 165 189
+f:\Python\Facial_Recognition\pre_processed\prasad\capture_1.png 15 8 181 208
+f:\Python\Facial_Recognition\pre_processed\prasad\capture_2.png 19 4 186 212
+f:\Python\Facial_Recognition\pre_processed\prasad\capture_3.png 22 7 190 217
+f:\Python\Facial_Recognition\pre_processed\prasad\capture_4.png 21 4 188 214
+f:\Python\Facial_Recognition\pre_processed\prasad\capture_5.png 22 2 188 212
+f:\Python\Facial_Recognition\pre_processed\prasad\capture_6.png 24 6 190 218

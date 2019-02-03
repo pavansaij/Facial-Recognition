@@ -1,0 +1,6 @@
+f:/Python/Facial_Recognition/pre_processed\ayyappa\capture_1.png
+f:/Python/Facial_Recognition/pre_processed\ayyappa\capture_2.png
+f:/Python/Facial_Recognition/pre_processed\ayyappa\capture_3.png
+f:/Python/Facial_Recognition/pre_processed\ayyappa\capture_4.png
+f:/Python/Facial_Recognition/pre_processed\ayyappa\capture_5.png
+f:/Python/Facial_Recognition/pre_processed\ayyappa\capture_6.png

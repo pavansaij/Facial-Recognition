@@ -1,0 +1,20 @@
+f:\Python\Facial_Recognition\pre_processed\ayyappa\capture_1.png
+f:\Python\Facial_Recognition\pre_processed\ayyappa\capture_2.png
+f:\Python\Facial_Recognition\pre_processed\ayyappa\capture_3.png
+f:\Python\Facial_Recognition\pre_processed\ayyappa\capture_4.png
+f:\Python\Facial_Recognition\pre_processed\ayyappa\capture_5.png
+f:\Python\Facial_Recognition\pre_processed\ayyappa\capture_6.png
+f:\Python\Facial_Recognition\pre_processed\ayyappa\capture_7.png 118 326 483 770
+f:\Python\Facial_Recognition\pre_processed\ayyappa\capture_8.png 200 300 543 734
+f:\Python\Facial_Recognition\pre_processed\ayyappa\capture_9.png 199 310 542 733
+f:\Python\Facial_Recognition\pre_processed\madhu\capture_7.png 231 142 637 683
+f:\Python\Facial_Recognition\pre_processed\madhu\capture_8.png 596 186 668 275
+f:\Python\Facial_Recognition\pre_processed\madhu\capture_9.png 235 152 419 401
+f:\Python\Facial_Recognition\pre_processed\prasad\IMG_1523633970183.png 220 355 493 717
+f:\Python\Facial_Recognition\pre_processed\prasad\IMG_1523729992440.png 352 217 645 619
+f:\Python\Facial_Recognition\pre_processed\prasad\IMG_1523730012147.png 158 322 553 871
+f:\Python\Facial_Recognition\pre_processed\prasad\IMG_1523885608311.png 186 168 519 622
+f:\Python\Facial_Recognition\pre_processed\prasad\IMG_1523885654852.png 174 445 474 827
+f:\Python\Facial_Recognition\pre_processed\prasad\IMG_1523885697175.png 206 415 495 809
+f:\Python\Facial_Recognition\pre_processed\prasad\JPEG_20171109_002752_file-1551661409.png 432 346 795 833
+f:\Python\Facial_Recognition\pre_processed\prasad\JPEG_20171109_004737_file937535106.png 1924 1223 1942 1245
